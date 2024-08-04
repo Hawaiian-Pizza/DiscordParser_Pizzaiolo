@@ -2,7 +2,6 @@
 
 import json
 import os
-import chardet 
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 message_list = []
